@@ -15,5 +15,5 @@
    12. [Dynamic Task Management Tracker](#dynamic-task-management-tracker)
    13. [Professional Charts & Visuals](#professional-charts--visuals)
    - [01. Static Productivity Tracker](#static-productivity-tracker)
-   - [02. Dynamic Productivity Tracker](#dynamic-productivity-tracker)
+   - [02. Dynamic Productivity Tracker](#Dynamic-Productivity-Tracker)
    14. [Others](#others)
