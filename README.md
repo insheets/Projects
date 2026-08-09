@@ -11,4 +11,5 @@
 10. **[Dashboard Project]()**
 11. **[To-Do List Tracker with automated backlog]()**
 12. **[Dynamic Task Management Tracker]()**
-13. **[Others]()**
+13. **[Professional Charts & Visuals]()**
+14. **[Others]()**
