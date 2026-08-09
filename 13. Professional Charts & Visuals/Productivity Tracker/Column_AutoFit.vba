@@ -1,3 +1,3 @@
-Sub AutofitAllColumns()
-    Cells.EntireColumn.AutoFit
+Private Sub Worksheet_SelectionChange(ByVal Target As Range)
+Columns.AutoFit
 End Sub
