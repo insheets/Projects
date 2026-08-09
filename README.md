@@ -1,15 +1,19 @@
-# Projects
-1. **[One Click Dashboards]()**
-2. **[Automated Data Entry]()**
-3. **[VBA Automation]()**
-4. **[Sales & Profit Dashboard]()**
-5. **[Single Dynamic Excel Dashboards]()**
-6. **[Modern Excel Reports]()**
-7. **[Multiple Dynamic Excel Dashboards]()**
-8. **[Project Management]()**
-9. **[VBA Project]()**
-10. **[Dashboard Project]()**
-11. **[To-Do List Tracker with automated backlog]()**
-12. **[Dynamic Task Management Tracker]()**
-13. **[Professional Charts & Visuals]()**
-14. **[Others]()**
+## Table of Contents
+
+1. [Projects](#projects)
+   01. [One Click Dashboards](#one-click-dashboards)
+   02. [Automated Data Entry](#automated-data-entry)
+   03. [VBA Automation](#vba-automation)
+   04. [Sales & Profit Dashboard](#sales--profit-dashboard)
+   05. [Single Dynamic Excel Dashboards](#single-dynamic-excel-dashboards)
+   06. [Modern Excel Reports](#modern-excel-reports)
+   07. [Multiple Dynamic Excel Dashboards](#multiple-dynamic-excel-dashboards)
+   08. [Project Management](#project-management)
+   09. [VBA Project](#vba-project)
+   10. [Dashboard Project](#dashboard-project)
+   11. [To-Do List Tracker with Automated Backlog](#to-do-list-tracker-with-automated-backlog)
+   12. [Dynamic Task Management Tracker](#dynamic-task-management-tracker)
+   13. [Professional Charts & Visuals](#professional-charts--visuals)
+   - [01. Static Productivity Tracker](#static-productivity-tracker)
+   - [02. Dynamic Productivity Tracker](#dynamic-productivity-tracker)
+   14. [Others](#others)
