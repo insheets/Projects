@@ -13,6 +13,7 @@
    10. [Dashboard Project](#dashboard-project)
    11. [Dynamic Task Management Tracker](#dynamic-task-management-tracker)
    12. [Simple Macro Projects](#simple-macro-projects)
-   13. [Professional Charts & Visuals](https://kutt.to/7RLF5H)
+       - [01. Automated HR Form](#automated-hr-form)
+   14. [Professional Charts & Visuals](https://kutt.to/7RLF5H)
        - [01. Static Productivity Tracker](https://kutt.to/uL4K68)
        - [02. Dynamic Productivity Tracker](https://kutt.to/tfyvGP)
