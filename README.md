@@ -1,19 +1,14 @@
-## Table of Contents
+## Project Visuals
 
-1. [Projects](#projects)
-   01. [One Click Dashboards](#one-click-dashboards)
-   02. [Automated Data Entry](#automated-data-entry)
-   03. [VBA Automation](#vba-automation)
-   04. [Sales & Profit Dashboard](#sales--profit-dashboard)
-   05. [Single Dynamic Excel Dashboards](#single-dynamic-excel-dashboards)
-   06. [Modern Excel Reports](#modern-excel-reports)
-   07. [Multiple Dynamic Excel Dashboards](#multiple-dynamic-excel-dashboards)
-   08. [Project Management](#project-management)
-   09. [VBA Projects](#vba-projects)
-   10. [Dashboard Project](#dashboard-project)
-   11. [Dynamic Task Management Tracker](#dynamic-task-management-tracker)
-   12. [Simple Macro Projects](#simple-macro-projects)
-       - [01. Automated HR Form](#automated-hr-form)
-   14. [Professional Charts & Visuals](https://kutt.to/7RLF5H)
-       - [01. Static Productivity Tracker](https://kutt.to/uL4K68)
-       - [02. Dynamic Productivity Tracker](https://kutt.to/tfyvGP)
+#### Automated Data Entry Form 
+https://github.com/user-attachments/assets/2fcaf509-faef-478a-aae4-ea914737db1f
+
+### Automated HR Form (Macro)
+https://github.com/user-attachments/assets/ba6db136-27a0-4449-9423-ec552454fd06
+
+#### Dynamic Productivity Tracker with Backlog 
+https://github.com/user-attachments/assets/d37a173b-bb4c-4e33-9252-258ec7a90bed
+
+#### Productivity Tracker 
+https://github.com/user-attachments/assets/128da258-b55b-4a18-a539-9927216b84ac
+
